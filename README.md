@@ -4,4 +4,4 @@
 
 ### 参与制作：
 
-1. WindSoft<img src="static/leaf.png" style="height: 25px;"/>
+1. WindSoft<img class="pic" height="25" src="static/leaf.png"/>
